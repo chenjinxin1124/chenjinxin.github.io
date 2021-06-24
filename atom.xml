@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://blog.chenjinxin1124.cn/</id>
+    <id>https://chenjinxin1124.github.io/chenjinxin.github.io/</id>
     <title>陈金鑫的博客</title>
-    <updated>2021-06-24T11:37:04.623Z</updated>
+    <updated>2021-06-24T11:52:40.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://blog.chenjinxin1124.cn/"/>
-    <link rel="self" href="https://https://blog.chenjinxin1124.cn/atom.xml"/>
+    <link rel="alternate" href="https://chenjinxin1124.github.io/chenjinxin.github.io/"/>
+    <link rel="self" href="https://chenjinxin1124.github.io/chenjinxin.github.io/atom.xml"/>
     <subtitle>记录一些事情</subtitle>
-    <logo>https://https://blog.chenjinxin1124.cn/images/avatar.png</logo>
-    <icon>https://https://blog.chenjinxin1124.cn/favicon.ico</icon>
+    <logo>https://chenjinxin1124.github.io/chenjinxin.github.io/images/avatar.png</logo>
+    <icon>https://chenjinxin1124.github.io/chenjinxin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 陈金鑫的博客</rights>
     <entry>
         <title type="html"><![CDATA[陈金鑫-大数据研发工程师-三年工作经验]]></title>
-        <id>https://https://blog.chenjinxin1124.cn/post/chen-jin-xin-da-shu-ju-yan-fa-gong-cheng-shi-san-nian-gong-zuo-jing-yan/</id>
-        <link href="https://https://blog.chenjinxin1124.cn/post/chen-jin-xin-da-shu-ju-yan-fa-gong-cheng-shi-san-nian-gong-zuo-jing-yan/">
+        <id>https://chenjinxin1124.github.io/chenjinxin.github.io/post/chen-jin-xin-da-shu-ju-yan-fa-gong-cheng-shi-san-nian-gong-zuo-jing-yan/</id>
+        <link href="https://chenjinxin1124.github.io/chenjinxin.github.io/post/chen-jin-xin-da-shu-ju-yan-fa-gong-cheng-shi-san-nian-gong-zuo-jing-yan/">
         </link>
         <updated>2021-06-24T11:28:20.000Z</updated>
         <content type="html"><![CDATA[<h1 id="基本信息">基本信息</h1>
@@ -117,8 +117,8 @@ Zookeeper，HDFS（HA），YARN（HA），Hive，HBase，Flume，Spark，Sqoop�
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://blog.chenjinxin1124.cn/post/hello-gridea/</id>
-        <link href="https://https://blog.chenjinxin1124.cn/post/hello-gridea/">
+        <id>https://chenjinxin1124.github.io/chenjinxin.github.io/post/hello-gridea/</id>
+        <link href="https://chenjinxin1124.github.io/chenjinxin.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
